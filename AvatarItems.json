@@ -12,6 +12,16 @@
         "CreatedAt":"2017-04-05T23:43:35.977Z",
         "ThumbnailImage":"32boa62st14xrnw6alwpdqer3.png"
     },
+
+    {
+      "AvatarItemDesc": "KNZ1DvCLC0WHyH4opYAXtw,PR5dh2jf2kqGLO0lXgA69A,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Space Visor (*Black&Red)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+    
     {
       "AvatarItemDesc": "8c51fc1a-b1ad-4002-a13c-4313abd92c7f,PR5dh2jf2kqGLO0lXgA69A,,",
       "AvatarItemType": 0,
