@@ -12,6 +12,7 @@
         "CreatedAt":"2017-04-05T23:43:35.977Z",
         "ThumbnailImage":"32boa62st14xrnw6alwpdqer3.png"
     },
+   
 
 {
       "AvatarItemDesc" : "d0a9262f-5504-46a7-bb10-7507503db58e,,,",
@@ -49,6 +50,59 @@
       "Rarity": 50,
       "Tooltip": ""
    },
+
+    {
+      "AvatarItemDesc": "f218e2de-46fd-45b9-9e0e-670b6bb905e7,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Astronaut Helmet (*Black&White)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+
+    {
+      "AvatarItemDesc": "ec5255d5-edaf-4888-9fe1-e89ac0e0d300,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Astronaut Suit (*Black&White)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+
+    {
+      "AvatarItemDesc": "88739d79-aeb9-471a-b25b-776f46bba9f6,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Astronaut Gloves (*Black&White)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+
+    {
+      "AvatarItemDesc": "h_To9WQYdEusYQxlbMmMmQ,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Extreme Dracula Cape (*Black&White)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": "Awarded for achieving S Rank in ^ExtremeCrescendo"
+   },
+
+    {
+      "AvatarItemDesc" : "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+      "AvatarItemType" : 0,
+      "FriendlyName" : "Hockey Shirt (*Shiny Red)",
+      "PlatformMask" : -1,
+      "Rarity" : 50,
+      "Tooltip" : ""
+   },
+   {
+      "AvatarItemDesc" : "a302741d-313b-4682-82e5-ac76764e662c,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+      "AvatarItemType" : 0,
+      "FriendlyName" : "Poofy Dress (*Shiny Red)",
+      "PlatformMask" : -1,
+      "Rarity" : 50,
+      "Tooltip" : ""
+   }
 
 {
       "AvatarItemDesc": "3d5184e1-0201-4476-bf4b-4eb28190de62,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
@@ -148,6 +202,15 @@
       "Tooltip": ""
    },
 
+    {
+      "AvatarItemDesc": "f76b709c-b173-426e-81f2-279a67d2fde1,PR5dh2jf2kqGLO0lXgA69A,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Golfer Shirt (*Black&Red)",
+      "PlatformMask": -1,
+      "Rarity": 20,
+      "Tooltip": ""
+   },
+
 {
       "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
@@ -156,6 +219,42 @@
       "Rarity": -1,
       "Tooltip": ""
    },
+
+    {
+      "AvatarItemDesc": "f76b709c-b173-426e-81f2-279a67d2fde1,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Golfer Shirt (*Shiny Red)",
+      "PlatformMask": -1,
+      "Rarity": 20,
+      "Tooltip": ""
+   },
+
+    {
+      "AvatarItemDesc" : "a302741d-313b-4682-82e5-ac76764e662c,0809a5cf-a0f3-4614-9f98-71518524518a,8212812b-e7e7-4f6d-aa27-d1112af45473,",
+      "AvatarItemType" : 0,
+      "FriendlyName" : "Poofy Dress (*SciFi)",
+      "PlatformMask" : -1,
+      "Rarity" : 50,
+      "Tooltip" : ""
+   },
+
+    {
+      "AvatarItemDesc" : "a302741d-313b-4682-82e5-ac76764e662c,PR5dh2jf2kqGLO0lXgA69A,,",
+      "AvatarItemType" : 0,
+      "FriendlyName" : "Poofy Dress (*Black&Red)",
+      "PlatformMask" : -1,
+      "Rarity" : 50,
+      "Tooltip" : ""
+   },
+
+    {
+      "AvatarItemDesc" : "a302741d-313b-4682-82e5-ac76764e662c,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+      "AvatarItemType" : 0,
+      "FriendlyName" : "Poofy Dress (*Shiny Red)",
+      "PlatformMask" : -1,
+      "Rarity" : 50,
+      "Tooltip" : ""
+   }
 
 {
       "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
