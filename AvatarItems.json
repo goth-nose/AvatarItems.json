@@ -13,13 +13,14 @@
         "ThumbnailImage":"32boa62st14xrnw6alwpdqer3.png"
     },
 {
-      "AvatarItemDesc" : "76369aef-aeda-46d2-996a-PR5dh2jf2kqGLO0lXgA69A,,",
-      "AvatarItemType" : 0,
-      "FriendlyName" : "Mobster Hat (*Black&Red)",
-      "PlatformMask" : -1,
-      "Rarity" : 20,
-      "Tooltip" : ""
+      "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,PR5dh2jf2kqGLO0lXgA69A,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Mobster Hat (*Black&Red)",
+      "PlatformMask": -1,
+      "Rarity": 20,
+      "Tooltip": ""
    },
+    
     {
       "AvatarItemDesc": "KNZ1DvCLC0WHyH4opYAXtw,PR5dh2jf2kqGLO0lXgA69A,,",
       "AvatarItemType": 0,
@@ -29,14 +30,7 @@
       "Tooltip": ""
    },
     
-    {
-      "AvatarItemDesc": "8c51fc1a-b1ad-4002-a13c-4313abd92c7f,PR5dh2jf2kqGLO0lXgA69A,,",
-      "AvatarItemType": 0,
-      "FriendlyName": "Visor (*Black&Red)",
-      "PlatformMask": -1,
-      "Rarity": 20,
-      "Tooltip": ""
-   },
+
 
     {
       "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,PR5dh2jf2kqGLO0lXgA69A,,",
