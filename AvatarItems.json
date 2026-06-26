@@ -30,6 +30,39 @@
       "Tooltip": ""
    },
 
+    {
+      "AvatarItemDesc" : "274cb9b2-2f59-47ea-9a8d-a5b656d148c6,kTP3xKhzBkuQF3SqvmYFKA,,",
+      "AvatarItemType" : 0,
+      "FriendlyName" : "Saija Helmet (*Green)",
+      "PlatformMask" : -1,
+      "Rarity" : 50,
+      "Tooltip" : ""
+   },
+    {
+      "AvatarItemDesc": "jUpFzO5MPEGTbS-E0a99Nw,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Dracula Jacket (*Black&White)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+   {
+      "AvatarItemDesc" : "2c679f89-c76e-4cfb-94e9-448c8fd44d55,kTP3xKhzBkuQF3SqvmYFKA,,",
+      "AvatarItemType" : 0,
+      "FriendlyName" : "Saija Shirt (*Green)",
+      "PlatformMask" : -1,
+      "Rarity" : 50,
+      "Tooltip" : ""
+   },
+   {
+      "AvatarItemDesc": "50c9c6f8-2963-4ef3-95d5-e999a898269f,kTP3xKhzBkuQF3SqvmYFKA,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Saija Gloves (*Green)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+
 
     {
       "AvatarItemDesc" : "2c679f89-c76e-4cfb-94e9-448c8fd44d55,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
