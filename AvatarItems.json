@@ -12,7 +12,57 @@
         "CreatedAt":"2017-04-05T23:43:35.977Z",
         "ThumbnailImage":"32boa62st14xrnw6alwpdqer3.png"
     },
-   
+
+    [
+  {
+    "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,knXPidb-Rkayfc3kSHfZeQ,,",
+    "AvatarItemType": 0,
+    "FriendlyName": "*Trans Mobster Hat",
+    "PlatformMask": -1,
+    "Rarity": 0,
+    "Tooltip": ""
+  },
+  {
+    "AvatarItemDesc": "bu9tb-K7NEiocvZY3o7ukw,knXPidb-Rkayfc3kSHfZeQ,,",
+    "AvatarItemType": 0,
+    "FriendlyName": "*Trans Glasses",
+    "PlatformMask": -1,
+    "Rarity": 0,
+    "Tooltip": ""
+  },
+  {
+    "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,knXPidb-Rkayfc3kSHfZeQ,,",
+    "AvatarItemType": 0,
+    "FriendlyName": "*Trans Scarf",
+    "PlatformMask": -1,
+    "Rarity": 0,
+    "Tooltip": ""
+  },
+  {
+    "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,knXPidb-Rkayfc3kSHfZeQ,,",
+    "AvatarItemType": 0,
+    "FriendlyName": "*Trans Winter Sweater",
+    "PlatformMask": -1,
+    "Rarity": 0,
+    "Tooltip": ""
+  },
+  {
+    "AvatarItemDesc": "39278302-b52a-48a8-a566-ed756a5fa1a9,48abd952-214f-48b2-a8f1-1146f6f69aa2,da36bbcc-2a9a-4ba2-9e4a-6f52c9b1ef74,",
+    "AvatarItemType": 0,
+    "FriendlyName": "*Lacrosse Shirt (Black & White)",
+    "PlatformMask": -1,
+    "Rarity": 0,
+    "Tooltip": ""
+  },
+  {
+    "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,4ElTihrMA0ipcgeb9UG01Q,3290f148-1bd1-4ffd-a947-61fd529af05,NxMm0sSBdUatynU16o0_Zw",
+    "AvatarItemType": 0,
+    "FriendlyName": "*Class of 2018 Shirt (Yippie)",
+    "PlatformMask": -1,
+    "Rarity": 0,
+    "Tooltip": ""
+  }
+]
 
 {
       "AvatarItemDesc" : "d0a9262f-5504-46a7-bb10-7507503db58e,,,",
