@@ -1791,25 +1791,26 @@
         "ThumbnailImage":"130079y56zsb2j2jv5bahhp77.png"
     },
     
-        {
-        "AvatarItemDesc":"2e59d8d0-91a0-4449-bfdc-a5d663fd9343,PR5dh2jf2kqGLO0lXgA69A,,",
-        "AvatarItemType":0,
-        "PlatformMask":-1,
-        "FriendlyName":"Referee Shirt (*Black&Red)",
-        "Tooltip":"",
-        "Rarity":-1,
-        "TagList":null,
-        "AvatarItemId":1042,
-        "IsBaseAvatarItem":false,
-        "CreatedAt":"2019-03-11T21:45:58.3Z",
-        "ThumbnailImage":"29urcstxxxjo9a30k66pvi43j.png"
-    },
-    
+       
     {
         "AvatarItemDesc":"2e59d8d0-91a0-4449-bfdc-a5d663fd9343,48abd952-214f-48b2-a8f1-1146f6f69aa2,c2a91a10-2f5b-4ab0-a79f-51408cf4b047,",
         "AvatarItemType":0,
         "PlatformMask":-1,
         "FriendlyName":"Referee Shirt (White Collar)",
+        "Tooltip":"",
+        "Rarity":-1,
+        "TagList":null,
+        "AvatarItemId":166,
+        "IsBaseAvatarItem":false,
+        "CreatedAt":"2017-04-05T23:43:35.977Z",
+        "ThumbnailImage":"b3stfwojthp7css2c8xqi5n5y.png"
+    },
+
+     {
+        "AvatarItemDesc":"2e59d8d0-91a0-4449-bfdc-a5d663fd9343,ffHKr5EcIU24PbAtWSnalw,c2a91a10-2f5b-4ab0-a79f-51408cf4b047,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Referee Shirt (*Black&Red)",
         "Tooltip":"",
         "Rarity":-1,
         "TagList":null,
