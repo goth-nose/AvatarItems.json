@@ -20,7 +20,15 @@
       "Rarity": 20,
       "Tooltip": ""
    },
-
+{
+      "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Mobster Hat (*Shiny Red)",
+      "PlatformMask": -1,
+      "Rarity": 20,
+      "Tooltip": ""
+   },
+    
     {
       "AvatarItemDesc": "de0ac50d-2adb-4114-bd2e-68953b13d706,0809a5cf-a0f3-4614-9f98-71518524518a,8212812b-e7e7-4f6d-aa27-d1112af45473,",
       "AvatarItemType": 0,
