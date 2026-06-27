@@ -22,6 +22,24 @@
    },
 
     {
+      "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Winter Sweater (*Shiny Red)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+
+    {
+      "AvatarItemDesc": "7a6fe0e6-f930-4fb8-9b2f-4c857a273dd9,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Bike Gloves (*Shiny Red)",
+      "PlatformMask": -1,
+      "Rarity": 10,
+      "Tooltip": ""
+   },
+
+    {
       "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
       "AvatarItemType": 0,
       "FriendlyName": "Winter Scarf (*Shiny Red)",
