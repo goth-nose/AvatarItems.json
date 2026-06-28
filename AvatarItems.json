@@ -18279,47 +18279,7 @@
         "ThumbnailImage":"bbp0mhypju37l680pb4b7mrdr.png"
     },
 
-    {
-        "AvatarItemDesc":"2c679f89-c76e-4cfb-94e9-448c8fd44d55,4lwF00Rvb0Kr3FJz07HlOQ",
-        "AvatarItemType":0,
-        "PlatformMask":-1,
-        "FriendlyName":"Saija Shirt (*Gold)",
-        "Tooltip":"",
-        "Rarity":20,
-        "TagList":null,
-        "AvatarItemId":246,
-        "IsBaseAvatarItem":false,
-        "CreatedAt":"2017-04-05T23:43:35.977Z",
-        "ThumbnailImage":"bbp0mhypju37l680pb4b7mrdr.png"
-    },
-
-    {
-        "AvatarItemDesc":"50c9c6f8-2963-4ef3-95d5-e999a898269f,4lwF00Rvb0Kr3FJz07HlOQ",
-        "AvatarItemType":0,
-        "PlatformMask":-1,
-        "FriendlyName":"Saija Gloves (*Gold)",
-        "Tooltip":"",
-        "Rarity":50,
-        "TagList":null,
-        "AvatarItemId":282,
-        "IsBaseAvatarItem":false,
-        "CreatedAt":"2017-04-05T23:43:35.977Z",
-        "ThumbnailImage":"6mjsnrcz0704f1ablk7vhwper.png"
-    },
-
-    {
-        "AvatarItemDesc":"274cb9b2-2f59-47ea-9a8d-a5b656d148c6,4lwF00Rvb0Kr3FJz07HlOQ",
-        "AvatarItemType":0,
-        "PlatformMask":-1,
-        "FriendlyName":"Saija Helmet (*Gold)",
-        "Tooltip":"",
-        "Rarity":50,
-        "TagList":null,
-        "AvatarItemId":65,
-        "IsBaseAvatarItem":false,
-        "CreatedAt":"2017-04-05T23:43:35.977Z",
-        "ThumbnailImage":"98wzkbq0ttvls6my69cezxa1o.png"
-    },
+    
     {
         "AvatarItemDesc":"664485e9-a159-4fcb-b32c-2b114b4a1218,,,",
         "AvatarItemType":0,
