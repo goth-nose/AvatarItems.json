@@ -8760,6 +8760,20 @@
         "CreatedAt":"2017-07-11T22:35:08.363Z",
         "ThumbnailImage":"4jk1xibdjjddzpvrwcw05usiu.png"
     },
+
+     {
+        "AvatarItemDesc":"1596c113-aa3a-4f5c-b398-e5c3575548e7,916384ca-e209-42a0-bd64-c64f5a40b56f,17aed0a0-70ed-49da-ad09-5bc4746f7718,,,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Luchador Mask (*Black)",
+        "Tooltip":"",
+        "Rarity":30,
+        "TagList":null,
+        "AvatarItemId":487,
+        "IsBaseAvatarItem":false,
+        "CreatedAt":"2017-07-11T22:35:08.363Z",
+        "ThumbnailImage":"4jk1xibdjjddzpvrwcw05usiu.png"
+    },
     {
         "AvatarItemDesc":"1596c113-aa3a-4f5c-b398-e5c3575548e7,0217fd2e-ff9d-49f7-9bc8-8d0d6b8bf250,96b36c98-cba1-4337-91dd-c74c00316f97,",
         "AvatarItemType":0,
