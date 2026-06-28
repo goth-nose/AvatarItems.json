@@ -22,6 +22,104 @@
    },
 
     {
+        "AvatarItemDesc": "022ce375-ed02-479d-b87d-9d72d126bbd4,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Jack Frost Wings (*Hacker)",
+        "Tooltip": "",
+        "Rarity": 50,
+        "TagList": null,
+        "AvatarItemId": 1285,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2020-01-06T22:36:52.873Z",
+        "ThumbnailImage": "extmqwfwviflhb677k7y0j5vw.png"
+    },
+
+    {
+        "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "White Hat (*HackerBlack)",
+        "Tooltip": "A hat given to the ethical hackers of Rec Room.",
+        "Rarity": 50,
+        "TagList": null,
+        "AvatarItemId": 1462,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2020-06-10T18:11:31.77Z",
+        "ThumbnailImage": "cjcge17sgy7ehaobbb1d90lb2.png"
+    },
+
+    {
+        "AvatarItemDesc": "7a6fe0e6-f930-4fb8-9b2f-4c857a273dd9,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Bike Gloves (*Hacker)",
+        "Tooltip": "",
+        "Rarity": 10,
+        "TagList": null,
+        "AvatarItemId": 267,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2017-04-05T23:43:35.977Z",
+        "ThumbnailImage": "28jeraj9pdlhoxmjt0mhkqvj7.png"
+    },
+
+    {
+        "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,Z10TTlOeW0mumezbqXKGzA,Ht0WRvpguUaLZ1tigCzCMA,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "White Hat (*Gold)",
+        "Tooltip": "A hat given to the ethical hackers of Rec Room.",
+        "Rarity": 50,
+        "TagList": null,
+        "AvatarItemId": 1462,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2020-06-10T18:11:31.77Z",
+        "ThumbnailImage": "cjcge17sgy7ehaobbb1d90lb2.png"
+    },
+
+    {
+        "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Rec Room Hoodie (Hacker)",
+        "Tooltip": null,
+        "Rarity": 30,
+        "TagList": null,
+        "AvatarItemId": 752,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2018-08-14T18:47:24.153Z",
+        "ThumbnailImage": "964z64p0djst7okp5yy4qnb5n.png"
+    },
+
+    {
+        "AvatarItemDesc": "bu9tb-K7NEiocvZY3o7ukw,8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Shutter Shades (*Hacker)",
+        "Tooltip": "",
+        "Rarity": 50,
+        "TagList": null,
+        "AvatarItemId": 755,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2018-08-14T19:04:19.43Z",
+        "ThumbnailImage": "8p01g7rfkflo0g5se24b17jny.png"
+    },
+
+    {
+        "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,fcbdfbfd-254a-4538-b119-43e23404b8b5,e5635772-4e84-4b30-b77f-4a1196cb599b,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Hockey Shirt (*Purple Sci-Fi)",
+        "Tooltip": null,
+        "Rarity": -1,
+        "TagList": null,
+        "AvatarItemId": 496,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2017-07-11T22:35:19.777Z",
+        "ThumbnailImage": "8j3mq83a7m2bcd1ue5tzv6r2o.png"
+    },
+
+    {
       "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
       "AvatarItemType": 0,
       "FriendlyName": "Winter Sweater (*Shiny Red)",
