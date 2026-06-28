@@ -242,7 +242,7 @@
 {
       "AvatarItemDesc": "KNZ1DvCLC0WHyH4opYAXtw,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Space Visor (Black&White)",
+      "FriendlyName": "Space Visor (*Black&White)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
@@ -252,7 +252,7 @@
 {
       "AvatarItemDesc": "f527ffaf-da03-4519-82ed-46a9cb981dc3,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Square Glasses (Black&White)",
+      "FriendlyName": "Square Glasses (*Black&White)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
@@ -261,7 +261,7 @@
 {
       "AvatarItemDesc": "AbYdU7O_9U-Lwg7zFVZzXQ,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Reindeer Antlers (Black&White)",
+      "FriendlyName": "Reindeer Antlers (*Black&White)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
@@ -323,7 +323,7 @@
 {
       "AvatarItemDesc": "3d5184e1-0201-4476-bf4b-4eb28190de62,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Cat Ears (Black&White)",
+      "FriendlyName": "Cat Ears (*Black&White)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
@@ -333,7 +333,7 @@
 {
       "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Winter Hat (Black&White)",
+      "FriendlyName": "Winter Hat (*Black&White)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
@@ -342,7 +342,7 @@
  {
       "AvatarItemDesc": "f527ffaf-da03-4519-82ed-46a9cb981dc3,FwiizGjYnUaM1VJ53R1cCQ,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Square Glasses (Orange)",
+      "FriendlyName": "Square Glasses (*Orange)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
@@ -351,7 +351,7 @@
 {
       "AvatarItemDesc": "f527ffaf-da03-4519-82ed-46a9cb981dc3,kTP3xKhzBkuQF3SqvmYFKA,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Square Glasses (Green)",
+      "FriendlyName": "Square Glasses (*Green)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
@@ -360,7 +360,7 @@
 {
       "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,PR5dh2jf2kqGLO0lXgA69A,,",
       "AvatarItemType": 0,
-      "FriendlyName": "RecRoom Shirt (Black&Red)",
+      "FriendlyName": "RecRoom Shirt (*Black&Red)",
       "PlatformMask": -1,
       "Rarity": -1,
       "Tooltip": ""
@@ -369,7 +369,7 @@
 {
       "AvatarItemDesc" : "a302741d-313b-4682-82e5-ac76764e662c,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType" : 0,
-      "FriendlyName" : "Poofy Dress (Black&White)",
+      "FriendlyName" : "Poofy Dress (*Black&White)",
       "PlatformMask" : -1,
       "Rarity" : 50,
       "Tooltip" : ""
@@ -378,7 +378,7 @@
  {
       "AvatarItemDesc" : "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType" : 0,
-      "FriendlyName" : "Hockey Shirt (Black&White)",
+      "FriendlyName" : "Hockey Shirt (*Black&White)",
       "PlatformMask" : -1,
       "Rarity" : 50,
       "Tooltip" : ""
@@ -387,7 +387,7 @@
 {
       "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,kTP3xKhzBkuQF3SqvmYFKA,,",
       "AvatarItemType": 0,
-      "FriendlyName": "RecRoom Shirt (Green)",
+      "FriendlyName": "RecRoom Shirt (*Green)",
       "PlatformMask": -1,
       "Rarity": -1,
       "Tooltip": ""
@@ -396,7 +396,7 @@
 {
       "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,FwiizGjYnUaM1VJ53R1cCQ,,",
       "AvatarItemType": 0,
-      "FriendlyName": "RecRoom Shirt (Orange)",
+      "FriendlyName": "RecRoom Shirt (*Orange)",
       "PlatformMask": -1,
       "Rarity": -1,
       "Tooltip": ""
@@ -430,7 +430,7 @@
 {
       "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "RecRoom Shirt (Black&White)",
+      "FriendlyName": "RecRoom Shirt (*Black&White)",
       "PlatformMask": -1,
       "Rarity": -1,
       "Tooltip": ""
@@ -475,7 +475,7 @@
 {
       "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Winter Scarf (Black&White)",
+      "FriendlyName": "Winter Scarf (*Black&White)",
       "PlatformMask": -1,
       "Rarity": 30,
       "Tooltip": ""
@@ -484,7 +484,7 @@
 {
       "AvatarItemDesc": "24c4404a-839f-46bd-98b6-6848d747a98b,1b1d08f2-12ca-43dd-a44f-ea2820b919b4,,",
       "AvatarItemType": 0,
-      "FriendlyName": "Winter Hat (Black&White)",
+      "FriendlyName": "Winter Hat (*Black&White)",
       "PlatformMask": -1,
       "Rarity": 50,
       "Tooltip": ""
