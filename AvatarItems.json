@@ -16541,23 +16541,24 @@
     },
 
     {
-        "AvatarItemDesc":"f76b709c-b173-426e-81f2-279a67d2fde1,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
-        "AvatarItemType":0,
-        "PlatformMask":-1,
-        "FriendlyName":"Golfer Shirt (*Pink)",
-        "Tooltip":"",
-        "Rarity":20,
-        "TagList":null,
-        "AvatarItemId":507,
-        "IsBaseAvatarItem":false,
-        "CreatedAt":"2017-07-14T23:02:34.17Z",
-        "ThumbnailImage":"arl9g7pg2z44m7uqebdjk9ool.png"
-    },
-    {
         "AvatarItemDesc":"f76b709c-b173-426e-81f2-279a67d2fde1,96e2b29e-e553-40f1-9eb6-8a9f7e64da39,6ce21c65-f4e9-41ac-be94-8eb1a08d5c76,",
         "AvatarItemType":0,
         "PlatformMask":-1,
         "FriendlyName":"Golfer Shirt (Grey)",
+        "Tooltip":"",
+        "Rarity":20,
+        "TagList":null,
+        "AvatarItemId":508,
+        "IsBaseAvatarItem":false,
+        "CreatedAt":"2017-07-14T23:02:34.97Z",
+        "ThumbnailImage":"01ylknc03jnajh84tyy03knwg.png"
+    },
+
+    {
+        "AvatarItemDesc":"f76b709c-b173-426e-81f2-279a67d2fde1,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Golfer Shirt (*Pink)",
         "Tooltip":"",
         "Rarity":20,
         "TagList":null,
