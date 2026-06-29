@@ -4334,6 +4334,21 @@
         "CreatedAt":"2018-04-30T23:07:30.333Z",
         "ThumbnailImage":"2p1yfnex9n9efclfrdg5v75cm.png"
     },
+
+     {
+        
+        "AvatarItemDesc":"f527ffaf-da03-4519-82ed-46a9cb981dc3,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Square Glasses (*Pink)",
+        "Tooltip":"",
+        "Rarity":50,
+        "TagList":null,
+        "AvatarItemId":646,
+        "IsBaseAvatarItem":false,
+        "CreatedAt":"2018-04-30T23:07:30.333Z",
+        "ThumbnailImage":"2p1yfnex9n9efclfrdg5v75cm.png"
+    },
     {
         "AvatarItemDesc":"f527ffaf-da03-4519-82ed-46a9cb981dc3,c5884778-a87f-4612-9717-86fbb65d440f,e0186718-4a18-434b-b96e-0c9c912f0d1f,",
         "AvatarItemType":0,
