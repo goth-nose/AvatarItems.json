@@ -34,12 +34,11 @@
         "CreatedAt": "2018-03-27T21:42:46.687Z",
         "ThumbnailImage": "cjcge17sgy7ehaobbb1d90lb2.png"
     }
-
-    {
-        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,1773d5d8-4714-4721-b30c-97e25d6f2a5a,0440f08f-ef1d-49d8-942b-523056e8bb45,75162f12-44e7-40f-bc6c-9b0612e9164b,",
+{
+        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,e3454bc7-c88d-4958-8b81-db3fe5472a1e,,75162f12-44e7-499f-bc6c-9b0612e9164b,",
         "AvatarItemType": 0,
         "PlatformMask": -1,
-        "FriendlyName": "Worn Out (*Worn-out)",
+        "FriendlyName": "Class Of 2017 (*Pink)",
         "Tooltip": "",
         "Rarity": 50,
         "TagList": null,
@@ -49,24 +48,107 @@
         "ThumbnailImage": "cjcge17sgy7ehaobbb1d90lb2.png"
     },
 
-     {
-        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,5864d23d-1a86-40a6-a52c-46ee670e4508,2ee3944d-e9fb-4959-973e-570a7fc6cc57,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
+    {
+  "AvatarItemDesc": "vP9EKTMXP0yni8U7uCz2-g,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+  "AvatarItemType": 0,
+  "PlatformMask": -1,
+  "FriendlyName": "Tutorial Sash (*Pink)",
+  "Tooltip": "",
+  "Rarity": 50,
+  "TagList": null,
+  "AvatarItemId": "",
+  "IsBaseAvatarItem": false,
+  "CreatedAt": "2026-06-06T11:52:38.000Z",
+  "ThumbnailImage": ""
+},
+
+    {
+  "AvatarItemDesc": "MJQiQ3LATEOymxCC8wfSjw,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+  "AvatarItemType": 0,
+  "PlatformMask": -1,
+  "FriendlyName": "Tutorial Gown (*Pink)",
+  "Tooltip": "",
+  "Rarity": 50,
+  "TagList": null,
+  "AvatarItemId": "",
+  "IsBaseAvatarItem": false,
+  "CreatedAt": "2026-06-06T11:53:14.000Z",
+  "ThumbnailImage": ""
+},
+
+    {
+        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,fwIgUAM_C0WhKds0O6DyPg,0440f08f-ef1d-49d8-942b-523056e8bb45,2ee3944d-e9fb-4959-973e-570a7fc6cc57,ceb07e4f-50a9-4ed0-b50b-c59d92ba66b5",
         "AvatarItemType": 0,
         "PlatformMask": -1,
-        "FriendlyName": "Chicken (*idk)",
+        "FriendlyName": "RecRoom Shirt (*Pink)",
         "Tooltip": "",
         "Rarity": 50,
         "TagList": null,
-        "AvatarItemId": 192,
+        "AvatarItemId": 362,
         "IsBaseAvatarItem": false,
-        "CreatedAt": "2017-04-05T23:43:35.977Z",
-        "ThumbnailImage": "au05f75bl482johdfb0fvjxjw.png"
+        "CreatedAt": "2017-06-21T23:27:02.577Z",
+        "ThumbnailImage": "e03fl2rpw0xd46aawjspj2i92.png"
     },
+
+    {
+    "AvatarItemDesc": "274cb9b2-2f59-47ea-9a8d-a5b656d148c6,e3454bc7-c88d-4958-8b81-db3fe5472a1e,,",
+    "AvatarItemType": 0,
+    "PlatformMask": -1,
+    "FriendlyName": "Saija Helmet (*Pink)",
+    "Tooltip": "",
+    "Rarity": 5,
+    "TagList": null,
+    "AvatarItemId": 0,
+    "IsBaseAvatarItem": false,
+    "CreatedAt": "",
+    "ThumbnailImage": ""
+},
+{
+    "AvatarItemDesc": "2c679f89-c76e-4cfb-94e9-448c8fd44d55,e3454bc7-c88d-4958-8b81-db3fe5472a1e,,",
+    "AvatarItemType": 0,
+    "PlatformMask": -1,
+    "FriendlyName": "Saija Shirt (*Pink)",
+    "Tooltip": "",
+    "Rarity": 5,
+    "TagList": null,
+    "AvatarItemId": 0,
+    "IsBaseAvatarItem": false,
+    "CreatedAt": "",
+    "ThumbnailImage": ""
+},
+{
+    "AvatarItemDesc": "50c9c6f8-2963-4ef3-95d5-e999a898269f,e3454bc7-c88d-4958-8b81-db3fe5472a1e,,",
+    "AvatarItemType": 0,
+    "PlatformMask": -1,
+    "FriendlyName": "Saija Glove (*Pink)",
+    "Tooltip": "",
+    "Rarity": 5,
+    "TagList": null,
+    "AvatarItemId": 0,
+    "IsBaseAvatarItem": false,
+    "CreatedAt": "",
+    "ThumbnailImage": ""
+}
+    
+     {
+        "AvatarItemDesc": "d6b0a1e7-e918-43e5-8191-3a8d9d01df7c,e3454bc7-c88d-4958-8b81-db3fe5472a1e,,,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Hockey Shirt (*Pink)",
+        "Tooltip": "",
+        "Rarity": 50,
+        "TagList": null,
+        "AvatarItemId": 622,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2018-03-27T21:42:46.687Z",
+        "ThumbnailImage": "cjcge17sgy7ehaobbb1d90lb2.png"
+    },
+
     {
         "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,4ElTihrMA0ipcgeb9UG01Q,3290f148-1bd1-4ffd-a947-61fd0529af05,2ee3944d-e9fb-4959-973e-570a7fc6cc57,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
         "AvatarItemType": 0,
         "PlatformMask": -1,
-        "FriendlyName": "Test(*idk)",
+        "FriendlyName": "Bucket Exclusive(*idk)",
         "Tooltip": "",
         "Rarity": 50,
         "TagList": null,
@@ -8809,6 +8891,15 @@
       "FriendlyName": "Mobster Hat (*Orange)",
       "PlatformMask": -1,
       "Rarity": 20,
+      "Tooltip": ""
+   },
+
+    {
+      "AvatarItemDesc": "3a790be3-2937-44d4-be01-b5d65353bd3d,FwiizGjYnUaM1VJ53R1cCQ,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Winter Mittens (*Orange)",
+      "PlatformMask": -1,
+      "Rarity": 30,
       "Tooltip": ""
    },
 
