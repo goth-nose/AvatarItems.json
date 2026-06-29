@@ -230,6 +230,16 @@
       "Tooltip": ""
    },
 
+     {
+      "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Winter Sweater (*Pink)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+
+
     {
       "AvatarItemDesc": "7a6fe0e6-f930-4fb8-9b2f-4c857a273dd9,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
       "AvatarItemType": 0,
@@ -10772,11 +10782,27 @@
         "CreatedAt":"2019-06-26T17:20:17.373Z",
         "ThumbnailImage":"7swwjtbh6ko8afp6d0nmwspsn.png"
     },
+
+    
     {
         "AvatarItemDesc":"M9weaekvIUimiJSVJqZl-w,gDH1WmW5rk2RdY4wJYYZow,GV8z2dlqGEqIAYaGrF1ZYQ,",
         "AvatarItemType":0,
         "PlatformMask":-1,
         "FriendlyName":"Tutorial Cap (Master)",
+        "Tooltip":null,
+        "Rarity":50,
+        "TagList":null,
+        "AvatarItemId":1127,
+        "IsBaseAvatarItem":false,
+        "CreatedAt":"2019-06-26T20:00:58.513Z",
+        "ThumbnailImage":"b0ck22y2gp6w3ppasjughn453.png"
+    },
+
+    {
+        "AvatarItemDesc":"M9weaekvIUimiJSVJqZl-w,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Tutorial Cap (*Pink)",
         "Tooltip":null,
         "Rarity":50,
         "TagList":null,
