@@ -230,15 +230,7 @@
       "Tooltip": ""
    },
 
-     {
-      "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
-      "AvatarItemType": 0,
-      "FriendlyName": "Winter Sweater (*Pink)",
-      "PlatformMask": -1,
-      "Rarity": 50,
-      "Tooltip": ""
-   },
-
+   
 
     {
       "AvatarItemDesc": "7a6fe0e6-f930-4fb8-9b2f-4c857a273dd9,Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
@@ -8986,6 +8978,16 @@
       "Rarity": 50,
       "Tooltip": ""
    },
+
+     {
+      "AvatarItemDesc": "3757149b-f478-4975-81e5-d808a1bed8d5,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+      "AvatarItemType": 0,
+      "FriendlyName": "Winter Sweater (*Pink)",
+      "PlatformMask": -1,
+      "Rarity": 50,
+      "Tooltip": ""
+   },
+
 
     {
       "AvatarItemDesc": "e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,kTP3xKhzBkuQF3SqvmYFKA,,",
