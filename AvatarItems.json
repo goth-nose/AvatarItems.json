@@ -3435,6 +3435,8 @@
         "CreatedAt":"2018-02-28T01:18:41.61Z",
         "ThumbnailImage":"dfy3wgi2sfer51uhs3af8y5da.png"
     },
+
+  
     {
         "AvatarItemDesc":"e1a13235-e3b3-4b39-8e6f-e6449d4321b7,clFrpYWFQEmDkE14f3o_Ig,DE1C-RJkuEWIvpR0q1i42g,",
         "AvatarItemType":0,
@@ -3448,6 +3450,21 @@
         "CreatedAt":"2019-06-26T20:00:04.69Z",
         "ThumbnailImage":"dkbvx8r9yxtlxb2uhcv5qn1az.png"
     },
+
+    {
+        "AvatarItemDesc":"e1a13235-e3b3-4b39-8e6f-e6449d4321b7,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Pirate Eyepatch (*Pink)",
+        "Tooltip":"",
+        "Rarity":30,
+        "TagList":null,
+        "AvatarItemId":1121,
+        "IsBaseAvatarItem":false,
+        "CreatedAt":"2019-06-26T20:00:04.69Z",
+        "ThumbnailImage":"dkbvx8r9yxtlxb2uhcv5qn1az.png"
+    },
+    
     {
         "AvatarItemDesc":"bc7299ac-be2b-404f-b8e6-402e2c0660f0,,,",
         "AvatarItemType":0,
@@ -3513,6 +3530,21 @@
         "CreatedAt":"2018-11-26T19:13:48.54Z",
         "ThumbnailImage":"80gor8nb4uaucnbfr9tmpumkr.png"
     },
+
+     {
+        "AvatarItemDesc":"KNZ1DvCLC0WHyH4opYAXtw,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
+        "AvatarItemType":0,
+        "PlatformMask":-1,
+        "FriendlyName":"Space Visor (*Pink)",
+        "Tooltip":null,
+        "Rarity":-1,
+        "TagList":null,
+        "AvatarItemId":914,
+        "IsBaseAvatarItem":false,
+        "CreatedAt":"2018-11-26T19:13:48.54Z",
+        "ThumbnailImage":"80gor8nb4uaucnbfr9tmpumkr.png"
+    },
+    
     {
         "AvatarItemDesc":"1736a60b-6fb6-49bd-948a-fd3f3fc1be50,,,",
         "AvatarItemType":0,
