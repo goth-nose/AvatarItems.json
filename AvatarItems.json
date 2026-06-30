@@ -9283,19 +9283,21 @@
         "CreatedAt":"2018-04-30T23:06:45.707Z",
         "ThumbnailImage":"5durkqoejr41mlqicbjoralgg.png"
     },
+
     {
-        "AvatarItemDesc":"76369aef-aeda-46d2-996a-cd00594d0543,1421caa9-9a0d-42c2-b847-1500ba2e483a,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
+        "AvatarItemDesc":"76369aef-aeda-46d2-996a-cd00594d0543,6564acf1-4d70-4f92-92ac-08e2b76dbb6b,,",
         "AvatarItemType":0,
         "PlatformMask":-1,
-        "FriendlyName":"Mobster Hat (Brown)",
+        "FriendlyName":"Mobster Hat (*Pink)",
         "Tooltip":"",
         "Rarity":20,
         "TagList":null,
-        "AvatarItemId":627,
+        "AvatarItemId":626,
         "IsBaseAvatarItem":false,
-        "CreatedAt":"2018-04-30T23:06:47.407Z",
-        "ThumbnailImage":"bcipyj02mi2pt13ubgaeou2w9.png"
+        "CreatedAt":"2018-04-30T23:06:45.707Z",
+        "ThumbnailImage":"5durkqoejr41mlqicbjoralgg.png"
     },
+
     {
         "AvatarItemDesc":"76369aef-aeda-46d2-996a-cd00594d0543,390a476a-5545-48eb-955c-1bf1a16012bf,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
         "AvatarItemType":0,
